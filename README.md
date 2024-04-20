@@ -2,6 +2,10 @@
 
 ![Imagen_de_portada](recursos/neo.png)
 
+## Alumno de 1º de DAM en UAX
+
+### Grupo 2 DAM
+
 <!--
 **uanmita/uanmita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
