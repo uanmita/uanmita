@@ -1,4 +1,4 @@
-# Repositorio GitHub de Juanma Parada Espinosa 👋
+# BIENVENIDOS ROJA O AZUL 👋
 
 ![Imagen_de_portada](recursos/the-matrix-resurrections-encabezado-1.jpg)
 
