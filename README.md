@@ -1,6 +1,6 @@
 # Repositorio GitHub de Juanma Parada Espinosa 👋
 
-![Imagen_de_portada](recursos/FOTO_1MB.jpg)
+![Imagen_de_portada](recursos/neo.png)
 
 <!--
 **uanmita/uanmita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
