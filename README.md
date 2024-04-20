@@ -1,6 +1,6 @@
 # Repositorio GitHub de Juanma Parada Espinosa 👋
 
-![Imagen_de_portada](recursos/neo.png)
+![Imagen_de_portada](recursos/the-matrix-resurrections-encabezado-1.jpg)
 
 ## Alumno de 1º de DAM en UAX
 
