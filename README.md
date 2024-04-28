@@ -1,6 +1,6 @@
 # BIENVENIDOS A MI REPOSITORIO INICIAL, PEQUENOS PADAGUANS 👋
 ***
-![Imagen_de_portada](recursos/banner_head.png)
+![Imagen_de_portada](recursos/LOGO_GITHUB.png)
 ***
 ***
 
