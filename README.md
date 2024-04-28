@@ -1,4 +1,4 @@
-# BIENVENIDOS ROJA O AZUL 👋
+# BIENVENIDOS A MI REPOSITORIO INICIAL, PEQUENOS PADAGUANS 👋
 
 ![Imagen_de_portada](recursos/banner_head.png)
 ## Alumno de 1º de DAM en UAX
