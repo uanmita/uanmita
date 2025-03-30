@@ -1,4 +1,11 @@
-# REPOSITORIO OFICIAL UANMITA
+<style>
+.ironman-text {
+  color: red;
+  font-family: 'Segoe IU', Gadget, sans-serif;
+}
+</style>
+
+<p class="ironman-text">REPOSITORIO OFICIAL UANMITA</p>
 
 ***
 ![Imagen_de_portada](recursos/logo_iron.png)
