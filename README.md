@@ -1,4 +1,4 @@
-# BIENVENIDOS A REPO OFICIAL,
+# REPOSITORIO OFICIAL UANMITA
 
 ***
 ![Imagen_de_portada](recursos/logo_iron.png)
