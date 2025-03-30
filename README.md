@@ -1,4 +1,4 @@
-# **<span style="color:red">REPOSITORIO OFICIAL UANMITA</span>**  
+# **<span style="color: red; font-family: 'Segoe UI', sans-serif; font-weight: bold; font-size: 32px; text-shadow: 2px 2px 4px rgba(255, 50, 0, 0.7);">REPOSITORIO OFICIAL UANMITA</span>**
 
 ***
 ![Imagen_de_portada](recursos/logo_iron.png)
