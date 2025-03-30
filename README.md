@@ -1,4 +1,17 @@
-# ![   REPOSITORIO OFICIAL UANMITA](https://fakeimg.pl/800x100/000000/ff0000/?text=REPOSITORIO+OFICIAL+UANMITA&font=impact&font_size=48)
+# # Variante 1 - Impact (clásico)
+![Banner](https://fakeimg.pl/1200x200/000000/ff0000/?text=REPOSITORIO+OFICIAL+UANMITA&font=impact&font_size=72)
+
+# Variante 2 - Arial Black (moderno)
+![Banner](https://fakeimg.pl/1200x200/000000/ff0000/?text=REPOSITORIO+OFICIAL+UANMITA&font=arial_black&font_size=72)
+
+# Variante 3 - Bebas Neue (bold)
+![Banner](https://fakeimg.pl/1200x200/000000/ff0000/?text=REPOSITORIO+OFICIAL+UANMITA&font=bebas&font_size=72)
+
+# Variante 4 - Anton (sans-serif grueso)
+![Banner](https://fakeimg.pl/1200x200/000000/ff0000/?text=REPOSITORIO+OFICIAL+UANMITA&font=anton&font_size=72)
+
+# Variante 5 - Roboto Condensed (estilo técnico)
+![Banner](https://fakeimg.pl/1200x200/000000/ff0000/?text=REPOSITORIO+OFICIAL+UANMITA&font=roboto_condensed&font_size=72)
  
 
 ***
