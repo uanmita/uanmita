@@ -1,5 +1,4 @@
-# ![REPOSITORIO IRONMAN](https://fakeimg.pl/1400x400/000000/ff0000/?text=REPOSITORIO+OFICIAL+UANMITA&font=anton&font_size=90&text_color=ffffff&shadow=1&border_size=5&border_color=ff0000)
-
+# ![REPOSITORIO STARK](https://fakeimg.pl/1400x400/000000/ffcc00/?text=REPOSITORIO+OFICIAL+UANMITA&font=impact&font_size=85&text_color=000000&shadow=1)
 ***
 ![Imagen_de_portada](recursos/logo_iron.png)
 ***
