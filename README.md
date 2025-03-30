@@ -1,5 +1,5 @@
-# BIENVENIDOS A MI REPOSITORIO INICIAL,
-#### LA FUERZA ES INTENSA EN VOSOTROS 👋
+# BIENVENIDOS A REPO OFICIAL,
+
 ***
 ![Imagen_de_portada](recursos/logo_ironman.png)
 ***
