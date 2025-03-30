@@ -1,7 +1,7 @@
 # BIENVENIDOS A REPO OFICIAL,
 
 ***
-![Imagen_de_portada](/recursos/logo_ironman.png)
+![Imagen_de_portada](/recursos/logo_GIHUB.png)
 ***
 ***
 
