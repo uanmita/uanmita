@@ -1,6 +1,6 @@
-<span style="color:red; font-family:'Segoe UI', sans-serif; font-size:48px; font-weight:bold; text-shadow: 2px 2px 6px #ff3300;">
-  REPOSITORIO OFICIAL UANMITA
-</span>
+# <span style="color:red; font-family:'Segoe UI', sans-serif; font-size:48px; font-weight:bold; text-shadow: 2px 2px 6px #ff3300;">
+ # REPOSITORIO OFICIAL UANMITA
+# </span>
 
 ***
 ![Imagen_de_portada](recursos/logo_iron.png)
