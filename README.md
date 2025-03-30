@@ -1,11 +1,4 @@
-<style>
-.ironman-text {
-  color: red;
-  font-family: 'Segoe IU', Gadget, sans-serif;
-}
-</style>
-
-<p class="ironman-text">REPOSITORIO OFICIAL UANMITA</p>
+<span style="color:red; font-family:'Segoe IU', Gadget, sans-serif;">ESTO ES MARKDOWN COMO PUEDO HACER QUE EL TEXTO SALGA EN ROJO IRONMAN Y CON OTRO TIPO DE LETRA</span>
 
 ***
 ![Imagen_de_portada](recursos/logo_iron.png)
