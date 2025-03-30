@@ -6,7 +6,7 @@
 ***
 
 
-## Alumno de 1º de DAM en UAX
+## Alumno de 2º de DAM en UAX
 ![Imagen_de_portada](recursos/logo_uax.jpg)
 
 ### Grupo 2 DAM
