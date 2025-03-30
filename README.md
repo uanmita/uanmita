@@ -1,4 +1,4 @@
-# ![REPOSITORIO STARK](https://fakeimg.pl/480x300/000000/ffcc00/?text=REPOSITORIO+OFICIAL+UANMITA&font=impact&font_size=85&text_color=000000&shadow=1)
+# ![REPOSITORIO STARK](https://fakeimg.pl/480x1200/000000/ffcc00/?text=REPOSITORIO+OFICIAL+UANMITA&font=impact&font_size=85&text_color=000000&shadow=1)
 ***
 ![Imagen_de_portada](recursos/logo_iron.png)
 ***
