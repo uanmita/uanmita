@@ -1,5 +1,5 @@
-<span style="color:red; font-family:'Segoe UI Bold', sans-serif; font-size:24px; font-weight:bold; text-shadow: 1px 1px 3px #ff6600;">
-REPOSITORIO OFICIAL UANMITA
+<span style="color:red; font-family:'Segoe UI', sans-serif; font-size:48px; font-weight:bold; text-shadow: 2px 2px 6px #ff3300;">
+  REPOSITORIO OFICIAL UANMITA
 </span>
 
 ***
