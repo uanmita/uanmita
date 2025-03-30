@@ -1,5 +1,5 @@
-# <span style="color:red">🔴 🅸🆁🅾🅽🅼🅰🅽 🔴</span>  
-**REPOSITORIO OFICIAL UANMITA** *(pero GitHub solo permite rojo con HTML inline básico)*  
+# <span style="color:red">🔴 🅁🄴🄿🄾🅂🄸🅃🄾🅁🄸🄾 🄾🄵🄸🄲🄸🄰🄻 🅄🄰🄽🄼🄸🅃🄰 🔴</span>  
+ 
 
 ***
 ![Imagen_de_portada](recursos/logo_iron.png)
