@@ -1,7 +1,7 @@
 # BIENVENIDOS A MI REPOSITORIO INICIAL,
 #### LA FUERZA ES INTENSA EN VOSOTROS 👋
 ***
-![Imagen_de_portada](recursos/LOGO_GITHUB.png)
+![Imagen_de_portada](recursos/logo_ironman.png)
 ***
 ***
 
