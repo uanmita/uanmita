@@ -1,4 +1,4 @@
-# ![Banner Hero](https://fakeimg.pl/1200x300/000000/ff0000/?text=REPOSITORIO+OFICIAL+UANMITA&font=bebas&font_size=72)
+# ![Banner Final](https://fakeimg.pl/1400x350/000000/ff0000/?text=REPOSITORIO+OFICIAL+UANMITA&font=anton&font_size=80&text_color=ffffff&shadow=1)
  
 
 ***
