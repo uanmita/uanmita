@@ -4,7 +4,7 @@
 ***
 
 
-## Alumno de 2º de DAM en UAX
+## Técnico Superior de DAM por Universidad Alfonso X El Sabio
 ![Imagen_de_portada](recursos/logo_uax.jpg)
 
 ### Grupo 2 DAM
