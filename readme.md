@@ -3,7 +3,7 @@
 ***
 ***
 
-
+# "Desarrollador Full Stack | Especialista en Golang & Java | AWS Certified (Big Data & AI) | Bilingüe (Inglés B2)"
 ## Técnico Superior de DAM por Universidad Alfonso X El Sabio
 ![Imagen_de_portada](recursos/logo_uax.jpg)
 # Presentación Profesional
