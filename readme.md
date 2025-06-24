@@ -1,5 +1,5 @@
 ***
-![Imagen_de_portada](recursos/logo_uax.jpg)
+![Imagen_de_portada](recursos/fondo_back.png)
 ***
 ***
 
