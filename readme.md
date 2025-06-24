@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>🔗 <b>LinkedIn</b></td>
-    <td>Disponible bajo petición</td>
+    <td>www.linkedin.com/in/juan-manuel-parada-espinosa-57793324b</td>
   </tr>
 </table>
 
