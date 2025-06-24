@@ -4,16 +4,15 @@
 ***
 
 
-## Técnico Superior de DAM por Universidad Alfonso X El Sabio
+#  Técnico Superior de DAM por Universidad Alfonso X El Sabio
 ![Imagen_de_portada](recursos/logo_uax.jpg)
-
-Presentación Profesional
-Juan Manuel Parada Espinosa
+# Presentación Profesional
+## Juan Manuel Parada Espinosa
 📍 Rincón de la Victoria, Málaga | ✉ uanmita@gmail.com | ☎ *+34 615 124 208*
 ________________________________________
-¿Quién soy?
+## ¿Quién soy?
 Soy un Desarrollador Full Stack con más de 20 años de experiencia en el sector IT, especializado por ultimo en backend (Golang/Java) y apasionado por la resolución de problemas técnicos complejos. Combino habilidades de programación con experiencia en gestión de sistemas, seguridad IT (CCTV/SIS) y liderazgo de equipos.
-¿Qué me diferencia?
+## ¿Qué me diferencia?
 ✔ Tecnologías clave:
 •	Backend: Golang, Java (Spring Boot, Hibernate)
 •	Frontend: HTML5, CSS, JavaScript
@@ -27,13 +26,13 @@ Soy un Desarrollador Full Stack con más de 20 años de experiencia en el sector
 •	Adaptabilidad (transición de RR.HH a IT).
 •	Mentalidad ágil (Scrum/Kanban).
 •	Comunicación clara (inglés B2).
-¿Qué busco?
+## ¿Qué busco?
 Un puesto donde pueda:
 🚀 Aplicar mis habilidades en desarrollo backend y arquitectura de software.
 💡 Colaborar en equipos innovadores con metodologías ágiles.
 🌱 Seguir creciendo profesionalmente en entornos desafiantes.
 ________________________________________
-¿Por qué contratarme?
+ ## ¿Por qué contratarme?
 •	Resultados comprobados: Optimicé sistemas reduciendo incidencias en un 20%.
 •	Aprendizaje continuo: Certificado en AWS Big Data & IA (nota: 10/10).
 •	Compromiso: Busco proyectos a largo plazo donde aportar valor.
