@@ -63,7 +63,7 @@ Especializado en backend (Golang/Java) y apasionado por la resolución de proble
 
 - 👨‍💼 6 años como **Técnico de Sistemas Senior** en Proseguir SIS (instalaciones para Mercadona)
 - 👨‍💻 11 años como **Gerente IT** en HUPA, liderando equipos y proyectos tecnológicos
-- 🏥 Prácticas en **Top Doctors** desarrollando backend médico con Golang
+- 🏥 Prácticas en **Top Doctors** desarrollando backend con Golang
 
 ---
 
