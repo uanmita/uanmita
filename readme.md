@@ -5,7 +5,7 @@
 <h1 align="center">Juan Manuel Parada Espinosa</h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack</b> | <b>Especialista en Golang & Java</b> | <b>AWS Certified (Big Data & AI)</b> <br>
+  <b>Desarrollador Full Stack Python FastAPI </b> | <b>Especialista en Golang & Java</b> | <b>AWS Certified (Big Data & AI)</b> <br>
   <i>Bilingüe (Inglés B2)</i>
 </p>
 
